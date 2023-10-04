@@ -13,11 +13,11 @@ En este caso, usaremos la funcion cv2.Sobel para realizar la escala y mostramos 
 
 
 
-## TAREA: Asumiendo que quieren mostrar a personas que no forman parte del curso de VC el comportamiento de una o varias funcioens de las vistas hasta este momento aplicadas sobre la entrada de la webcam. ¿Cuál(es) escogerían?
+### TAREA: Asumiendo que quieren mostrar a personas que no forman parte del curso de VC el comportamiento de una o varias funcioens de las vistas hasta este momento aplicadas sobre la entrada de la webcam. ¿Cuál(es) escogerían?
 
 En nuestro caso hemos escogido el pop-art de la practica anterior debido a su gran llamativo visual y por otro lado la eliminacion de fondo también debido a que creemos que es lo que mas interes podria levantar.
 
-## TAREA: Tras ver los vídeos My little piece of privacy, Messa di voce y Virtual air guitar propongan (los componentes de cada grupo) una reinterpretación del procesamiento de imágenes con las técnicas vistas o que conozcan.
+### TAREA: Tras ver los vídeos My little piece of privacy, Messa di voce y Virtual air guitar propongan (los componentes de cada grupo) una reinterpretación del procesamiento de imágenes con las técnicas vistas o que conozcan.
 
 Para finalizar, hemos creado un filtro que detecta el movimiento comparando los pixeles del frame actual y el anterior
 para dibujar en el una imagen, en este caso, una nube.
