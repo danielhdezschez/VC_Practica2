@@ -1,11 +1,11 @@
 # Segunda Práctica de Visión por Computador
 
-## TAREA: Realiza la cuenta de píxeles blancos por filas, determina el máximo para filas y columnas (uno para cada) y muestra el número de valores que superan en cada caso 0.95*máximo.
+### TAREA: Realiza la cuenta de píxeles blancos por filas, determina el máximo para filas y columnas (uno para cada) y muestra el número de valores que superan en cada caso 0.95*máximo.
 
 Para conseguir la cuenta de pixeles blancos por fila y columna, usamos la funcion cv2.reduce en cada una de las dimensiones y mas tarde utilizando un bucle for encontramos el maximo de cada una, además hemos representado visualmente la grafica del recuento de pixeles por fila.
 
 
-## TAREA: Elige otra imagen, muestra el contenido de alguna de las imágenes resultado de Sobel antes y después de ajustar la escala
+### TAREA: Elige otra imagen, muestra el contenido de alguna de las imágenes resultado de Sobel antes y después de ajustar la escala
 
 En este caso, usaremos la funcion cv2.Sobel para realizar la escala y mostramos el calculo de sobel tanto en horizontal, como en vertical y su combinado.
 
